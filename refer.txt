@@ -1,0 +1,2 @@
+carousel: https://www.w3schools.com/bootstrap4/tryit.asp?filename=trybs_carousel2
+scroll snap css: https://codepen.io/tutsplus/pen/qpJYaK
